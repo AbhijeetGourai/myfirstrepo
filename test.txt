@@ -1,1 +1,2 @@
-/bin/bash: wq: command not found
+Adding a new comment
+Adding second comment
